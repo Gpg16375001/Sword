@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{a5694300-753e-426c-bb4b-244e83a43481}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\main">
+      <UniqueIdentifier>{db77c7cb-22d1-4395-8d36-10f22e43f7db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\master">
+      <UniqueIdentifier>{f4732e9f-7de4-4120-98c3-5c6e6bebd04b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\utility">
+      <UniqueIdentifier>{b60af136-6893-4960-9414-b1e0faa30098}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
